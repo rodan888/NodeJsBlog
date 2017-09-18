@@ -1,0 +1,11 @@
+1) npm i -g babel-cli
+2) npm i -g nodemon
+3) npm init --yes
+4) npm i --save express mongoose express-session body-parser morgan
+5) npm i --save-dev babel-cli babel-core babel-preset-es2015 babel-preset-stage-0 babel-preset-stage-1 babel-preset-stage-2 babel-preset-stage-3
+6)
+
+
+
+INSTALL MONGO
+1)
